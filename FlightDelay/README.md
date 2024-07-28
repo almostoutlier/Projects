@@ -12,8 +12,10 @@
            C       1.00      1.00      1.00        99
            D       0.94      0.95      0.94      1789
            N       0.99      0.99      0.99      8125
+      ```
 
-    accuracy                           0.98     10013
+      ```
+      accuracy                           0.98     10013
       ```
    ![alt text](/FlightDelay/image-1.png)
 
