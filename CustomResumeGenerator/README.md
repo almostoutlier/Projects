@@ -26,7 +26,7 @@ This project uses Python and the Gemini API to create professional, ATS (Applica
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Projects
+   cd Projects/CustomResumeGenerator
    ```
 3. Install the required libraries:
    ```bash
@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [@almostoutlier](alaharivirinchi123@gmail.com) or connect with me on [LinkedIn]<a href = "https://www.linkedin.com/in/alahari-virinchi/">.
+For any questions or feedback, please contact [@almostoutlier](alaharivirinchi123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alahari-virinchi/).
