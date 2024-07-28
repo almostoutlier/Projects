@@ -4,6 +4,11 @@
 
 This project uses Python and the Gemini API to create professional, ATS (Applicant Tracking System) optimized resumes in Microsoft Word format. The tool analyzes job descriptions and generates tailored resumes with optimized content and keyword placement, ensuring a high ATS score.
 
+**Output Resume:** <a href = "https://github.com/almostoutlier/Projects/blob/main/CustomResumeGenerator/ATS_Optimized_Resume.docx"> 
+
+![alt text](/CustomResumeGenerator/resume-image.png)
+
+
 ## Features
 
 - Generates resumes in Microsoft Word format using the `python-docx` library.
