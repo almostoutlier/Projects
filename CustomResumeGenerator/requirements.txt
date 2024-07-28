@@ -1,0 +1,6 @@
+python-docx
+requests
+google-generativeai
+PIL.Image
+bs4
+urllib.request
