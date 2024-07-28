@@ -12,7 +12,8 @@
            C       1.00      1.00      1.00        99
            D       0.94      0.95      0.94      1789
            N       0.99      0.99      0.99      8125
-         accuracy                           0.98     10013
+
+    accuracy                           0.98     10013
       ```
    ![alt text](/FlightDelay/image-1.png)
 
@@ -41,6 +42,19 @@
 - **Programming Language:** Python
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib
 - **Tools:** Jupyter Notebook
+
+
+## Data Preprocessing
+
+- **Cleaning:** Handle missing values and outliers.
+- **Feature Engineering:** Create new features, normalize/scale features, handle categorical variables.
+
+## Model Training and Evaluation
+
+- **Multiclass Classification Model:** Logistic Regression, Decision Trees, Random Forests.
+- **Multilabel Classification Model:** One-vs-Rest strategy with Logistic Regression.
+- **Regression Model:** Linear Regression, Decision Tree Regression.
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, RMSE, MAE, MAPE.
 
 ## Dataset
 
