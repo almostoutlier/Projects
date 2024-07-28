@@ -4,3 +4,14 @@ google-generativeai
 PIL.Image
 bs4
 urllib.request
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly.express
+statsmodels
+sklearn
+pylab
+scipy
+warnings
