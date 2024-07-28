@@ -109,7 +109,7 @@ After transformation, the processed data is stored in Azure Data Lake Gen 2, pro
 
 ## Data Cleaning & Analytics
 
-- **Link to Databricks Publication:** [Github Link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2985497818835596/194652377457841/8099496849479748/latest.html)
+- **Link to Databricks Publication:** [Olympic Analysis Using Spark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2985497818835596/194652377457841/8099496849479748/latest.html)
 
 
 ## Installation
@@ -161,4 +161,5 @@ For any questions or feedback, please contact [@almostoutlier](mailto:alaharivir
 ## Acknowledgments
 
 Data source: [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
+
 Inspiration: [Olympic Data Analytics | Azure End-To-End Data Engineering Project](https://www.youtube.com/watch?v=IaA9YNlg5hM)
