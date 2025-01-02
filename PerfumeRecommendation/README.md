@@ -6,6 +6,13 @@ A Flask-based web application that provides personalized perfume recommendations
 
 This project implements a recommendation system that suggests perfumes to users based on their gender, preferred brand, and description inputs. The system uses TF-IDF vectorization and cosine similarity to find perfumes that best match the user's preferences. The project includes both a web application and a Jupyter notebook for data analysis and model development.
 
+1. Landing page for the user to give input
+![alt text](/PerfumeRecommendation/images%20and%20videos/Screenshot%20(77).png)
+
+2. Results page with top 5 suggestions
+![alt text](/PerfumeRecommendation/images%20and%20videos/Screenshot%20(78).png)
+
+
 ## Features
 
 - Gender-based filtering
