@@ -12,6 +12,8 @@ This project implements a recommendation system that suggests perfumes to users 
 2. Results page with top 5 suggestions
 ![alt text](/PerfumeRecommendation/images%20and%20videos/Screenshot%20(78).png)
 
+**Architecture Flow:**
+![Architecture](/PerfumeRecommendation/images%20and%20videos/architecture.jpg)
 
 ## Features
 
