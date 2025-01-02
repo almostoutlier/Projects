@@ -1,0 +1,16 @@
+winget install ffmpeg
+python3.11 -m pip install bar_chart_race
+
+
+Get-ExecutionPolicy --> return restricted
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+returns bypass next
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python3.11 -m pip freeze > requirements.txt
+
+
+docker build -t perfume-recommender .
+docker run -it perfume-recommender

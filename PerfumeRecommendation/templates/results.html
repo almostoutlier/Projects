@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume Recommendations</title>
+</head>
+<body>
+    <h1>Top Matching Perfumes</h1>
+    <ul>
+        {% for rec in recommendations %}
+        <li>
+            <strong>{{ rec.perfume_name }}</strong> (Similarity: {{ rec.similarity|round(2) }})<br>
+            Brand: {{ rec.brand }}<br>
+            Rating: {{ rec.rating_value }} (based on {{ rec.rating_count }} ratings)<br>
+            URL: <a href="{{ rec.url }}" target="_blank">{{ rec.url }}</a><br>
+            Description: {{ rec.description }}
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="/">Search Again</a>
+</body>
+</html>
