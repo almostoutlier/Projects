@@ -22,7 +22,6 @@ This project implements a recommendation system that suggests perfumes to users 
 - **Data Processing**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn (TF-IDF Vectorizer, Cosine Similarity)
 - **Frontend**: HTML/CSS
-- **Dataset**: Fragrance dataset (fra_cleaned.csv)
 - **Containerization**: Docker
 - **Development**: Jupyter Notebook
 
@@ -111,16 +110,6 @@ To run the notebook:
 2. Launch Jupyter: `jupyter notebook`
 3. Open `main.ipynb`
 
-## Dependencies
-
-Create a `requirements.txt` file with these dependencies:
-```
-Flask==2.0.1
-pandas==1.3.3
-numpy==1.21.2
-scikit-learn==0.24.2
-jupyter==1.0.0
-```
 
 ## Docker Configuration
 
