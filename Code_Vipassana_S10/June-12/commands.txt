@@ -1,0 +1,26 @@
+gcloud auth list
+gcloud config list project
+gcloud config set project <YOUR_PROJECT_ID>
+
+python -m venv .venv
+source .venv/bin/activate
+pip install google-adk
+
+Folder Structure
+renovation-agent/
+        __init__.py
+        agent.py
+        requirements.txt
+        .env
+
+
+pip install -r requirements.txt
+
+adk run .
+If adk not found run:
+export PATH="$PATH:/home/alaharivirinchi123/.local/bin"
+
+before you deploy web app, do "cd .." to get to the parent folder.
+This is the location where data agent is created
+adk web
+
