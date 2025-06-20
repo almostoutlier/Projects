@@ -1,0 +1,301 @@
+EID,Plan,Coverage Level,Monthly Cost,Employer Contribution
+6159,Vision,Employee Only,139.9,27.01
+6159,Life,Employee + Spouse,445.59,177.19
+6159,Dental,Employee + Spouse,460.17,81.98
+9376,Vision,Employee + Spouse,59.71,250.68
+9376,Life,Employee + Spouse,457.41,104.61
+9376,Dental,Employee Only,221.9,59.14
+9957,Life,Family,474.74,105.22
+9957,Medical,Employee Only,261.53,47.21
+9957,Vision,Employee + Spouse,447.01,57.99
+5966,Dental,Employee Only,243.21,207.74
+5966,Medical,Employee Only,379.28,284.87
+5966,Vision,Employee Only,226.99,227.84
+6321,Dental,Employee Only,102.63,136.17
+6321,Medical,Employee Only,76.54,157.02
+6321,Vision,Employee Only,221.81,286.43
+8770,Life,Employee Only,45.38,123.75
+8770,Medical,Employee + Spouse,238.39,286.16
+8770,Vision,Family,432.06,47.82
+7142,Vision,Family,352.27,172.45
+7142,Disability,Family,489.59,120.43
+7142,Medical,Family,217.13,73.15
+9014,Medical,Employee Only,87.42,257.45
+9014,Dental,Family,243.72,205.58
+9014,Life,Employee Only,331.6,187.2
+1578,Vision,Family,40.04,240.3
+1578,Life,Employee Only,144.48,55.26
+1578,Dental,Employee Only,295.35,39.21
+7323,Disability,Family,389.62,78.0
+7323,Dental,Employee + Spouse,131.5,263.51
+7323,Medical,Family,184.42,61.32
+1261,Disability,Employee Only,453.25,20.79
+1261,Medical,Employee + Spouse,433.45,60.51
+1261,Vision,Family,91.1,90.18
+4553,Life,Family,112.01,205.1
+4553,Vision,Family,42.12,24.16
+4553,Medical,Employee + Spouse,401.29,86.62
+4656,Medical,Employee Only,182.17,68.79
+4656,Life,Employee + Spouse,54.63,227.68
+4656,Dental,Employee + Spouse,277.26,228.79
+2136,Life,Employee Only,253.84,237.84
+2136,Dental,Family,271.22,50.54
+2136,Disability,Family,266.8,284.72
+9124,Vision,Employee + Spouse,50.38,239.3
+9124,Life,Family,437.48,166.01
+9124,Dental,Family,245.28,289.93
+8664,Vision,Employee Only,58.59,154.11
+8664,Disability,Employee + Spouse,218.76,212.11
+8664,Medical,Employee + Spouse,260.43,274.72
+1838,Dental,Family,64.54,42.62
+1838,Life,Family,315.9,38.39
+1838,Vision,Employee + Spouse,159.26,197.26
+5694,Vision,Employee + Spouse,287.73,111.05
+5694,Medical,Employee Only,497.48,168.56
+5694,Dental,Employee + Spouse,243.25,189.52
+7112,Dental,Employee + Spouse,76.61,216.5
+7112,Vision,Employee + Spouse,430.81,202.26
+7112,Disability,Family,391.41,221.84
+7862,Vision,Employee Only,131.06,146.44
+7862,Medical,Employee Only,137.39,114.9
+7862,Disability,Employee Only,243.14,136.48
+3833,Life,Employee Only,74.69,139.49
+3833,Disability,Family,342.6,124.8
+3833,Vision,Employee + Spouse,101.74,278.44
+5747,Life,Employee Only,61.55,252.9
+5747,Disability,Employee + Spouse,73.82,47.04
+5747,Medical,Employee Only,377.23,247.3
+3233,Life,Family,291.49,184.21
+3233,Dental,Family,293.95,112.3
+3233,Disability,Employee + Spouse,87.45,119.01
+3576,Life,Family,342.71,230.08
+3576,Vision,Family,438.0,221.9
+3576,Dental,Employee + Spouse,485.15,188.11
+2362,Vision,Employee + Spouse,195.27,181.82
+2362,Life,Employee + Spouse,129.99,203.89
+2362,Dental,Employee Only,135.4,50.3
+5747,Medical,Employee Only,427.33,122.92
+5747,Dental,Family,388.42,180.75
+5747,Life,Family,409.39,256.64
+3048,Dental,Family,488.04,249.16
+3048,Disability,Employee + Spouse,318.38,199.96
+3048,Medical,Employee + Spouse,42.34,280.14
+8713,Disability,Employee Only,419.85,94.89
+8713,Vision,Employee + Spouse,114.8,216.76
+8713,Medical,Employee Only,175.22,115.15
+7581,Vision,Employee Only,32.87,263.56
+7581,Dental,Family,296.17,132.22
+7581,Life,Family,96.68,197.29
+7501,Dental,Employee Only,44.41,228.91
+7501,Vision,Family,131.11,137.55
+7501,Medical,Employee + Spouse,190.22,123.61
+1011,Dental,Employee Only,369.15,237.51
+1011,Life,Family,296.77,43.79
+1011,Medical,Employee + Spouse,54.73,64.07
+5223,Life,Employee + Spouse,320.38,208.71
+5223,Disability,Employee Only,157.89,205.34
+5223,Dental,Employee Only,258.26,143.77
+4760,Vision,Employee Only,158.39,231.38
+4760,Life,Employee + Spouse,83.49,140.38
+4760,Medical,Employee + Spouse,163.13,209.98
+6050,Medical,Employee Only,258.72,206.8
+6050,Disability,Family,51.35,130.67
+6050,Life,Employee + Spouse,311.68,22.15
+1195,Medical,Family,171.67,79.15
+1195,Dental,Employee + Spouse,94.5,91.55
+1195,Disability,Family,184.22,22.16
+8179,Disability,Employee + Spouse,381.1,69.19
+8179,Dental,Employee + Spouse,208.7,217.03
+8179,Vision,Employee + Spouse,265.12,253.34
+7573,Vision,Family,408.91,40.18
+7573,Life,Family,435.03,31.84
+7573,Dental,Employee Only,38.81,277.93
+4078,Disability,Family,435.19,181.21
+4078,Medical,Employee Only,299.5,218.66
+4078,Life,Employee + Spouse,226.32,52.25
+3897,Medical,Employee Only,39.8,110.94
+3897,Dental,Family,406.62,193.08
+3897,Disability,Employee Only,421.05,277.54
+7864,Dental,Employee + Spouse,71.42,256.46
+7864,Medical,Family,144.36,184.88
+7864,Disability,Family,276.26,130.81
+9168,Life,Employee Only,175.83,115.06
+9168,Vision,Employee + Spouse,186.54,67.08
+9168,Medical,Family,269.93,51.93
+6588,Vision,Family,269.68,273.66
+6588,Life,Employee Only,194.21,223.67
+6588,Medical,Employee + Spouse,414.91,248.21
+5263,Disability,Employee Only,141.05,61.0
+5263,Dental,Family,122.72,188.67
+5263,Life,Employee Only,387.3,203.54
+8666,Dental,Employee Only,113.26,236.4
+8666,Vision,Employee Only,262.24,231.24
+8666,Medical,Employee Only,387.14,145.69
+8478,Vision,Employee Only,464.35,178.06
+8478,Disability,Employee + Spouse,328.59,194.87
+8478,Dental,Family,436.2,195.62
+3193,Vision,Family,100.95,39.12
+3193,Life,Family,237.84,104.79
+3193,Dental,Employee + Spouse,159.1,35.73
+8619,Life,Employee Only,268.45,106.91
+8619,Medical,Employee + Spouse,242.4,35.93
+8619,Vision,Family,420.9,41.48
+5042,Vision,Employee Only,436.2,259.48
+5042,Disability,Employee Only,319.05,161.98
+5042,Medical,Family,247.47,175.21
+6537,Disability,Employee + Spouse,402.15,270.85
+6537,Medical,Family,241.37,246.75
+6537,Vision,Employee Only,336.36,110.03
+5717,Dental,Family,253.55,62.24
+5717,Life,Employee + Spouse,59.08,48.98
+5717,Vision,Employee + Spouse,452.59,116.16
+4272,Dental,Employee + Spouse,365.73,161.27
+4272,Life,Employee Only,111.1,89.37
+4272,Vision,Employee + Spouse,235.75,143.04
+9084,Vision,Employee + Spouse,275.69,64.45
+9084,Life,Family,205.24,99.21
+9084,Dental,Employee Only,222.12,114.74
+6798,Dental,Family,311.01,240.98
+6798,Vision,Employee + Spouse,334.23,38.46
+6798,Disability,Employee + Spouse,74.42,209.95
+9450,Life,Employee Only,163.55,222.65
+9450,Medical,Employee + Spouse,338.59,273.78
+9450,Dental,Employee + Spouse,440.44,113.34
+8215,Vision,Family,303.89,59.6
+8215,Medical,Employee Only,194.42,290.96
+8215,Dental,Family,358.29,129.75
+2974,Disability,Employee Only,309.67,282.64
+2974,Life,Employee Only,175.5,125.47
+2974,Dental,Family,402.08,247.69
+7412,Vision,Employee + Spouse,344.95,252.11
+7412,Life,Employee Only,377.22,211.92
+7412,Disability,Employee Only,277.4,200.89
+7830,Vision,Employee + Spouse,229.0,121.31
+7830,Dental,Family,200.42,70.47
+7830,Life,Employee + Spouse,130.67,285.35
+9106,Medical,Family,258.55,83.43
+9106,Disability,Employee Only,94.66,41.61
+9106,Vision,Family,426.88,48.32
+8473,Dental,Employee Only,392.31,253.83
+8473,Vision,Family,445.33,30.57
+8473,Life,Employee + Spouse,188.28,234.57
+6861,Medical,Employee + Spouse,91.59,125.48
+6861,Dental,Employee Only,106.26,252.78
+6861,Disability,Family,392.42,246.53
+7276,Dental,Employee + Spouse,107.8,142.55
+7276,Life,Family,223.1,209.38
+7276,Vision,Family,141.64,144.38
+5982,Vision,Employee + Spouse,163.92,229.59
+5982,Life,Employee Only,241.0,169.52
+5982,Dental,Employee + Spouse,175.45,246.41
+7653,Disability,Employee Only,250.44,253.83
+7653,Dental,Family,202.89,285.2
+7653,Life,Family,492.69,149.27
+3121,Dental,Employee + Spouse,162.43,126.92
+3121,Medical,Employee + Spouse,277.91,290.56
+3121,Disability,Family,413.94,244.35
+9832,Vision,Family,95.05,90.0
+9832,Medical,Employee + Spouse,331.35,264.75
+9832,Dental,Family,290.63,48.73
+7540,Disability,Employee + Spouse,427.57,258.33
+7540,Life,Family,163.98,233.67
+7540,Medical,Employee + Spouse,158.21,273.49
+3007,Vision,Family,99.25,142.49
+3007,Disability,Employee + Spouse,474.81,82.17
+3007,Life,Employee + Spouse,242.03,117.88
+5290,Vision,Employee Only,42.53,34.91
+5290,Dental,Family,265.94,86.02
+5290,Disability,Employee + Spouse,497.43,124.98
+1554,Dental,Employee + Spouse,43.25,280.63
+1554,Life,Family,424.41,201.99
+1554,Medical,Employee + Spouse,401.95,58.53
+5879,Life,Family,164.83,252.33
+5879,Disability,Employee Only,357.15,58.86
+5879,Vision,Employee + Spouse,361.6,145.61
+3077,Medical,Family,32.47,42.18
+3077,Dental,Employee + Spouse,150.28,253.79
+3077,Vision,Employee Only,287.94,223.63
+1501,Life,Employee + Spouse,278.05,51.13
+1501,Medical,Employee Only,165.41,104.32
+1501,Vision,Family,52.44,137.55
+5882,Dental,Employee Only,403.13,147.99
+5882,Life,Employee Only,82.1,273.44
+5882,Vision,Employee + Spouse,310.47,24.6
+2315,Vision,Family,272.23,87.74
+2315,Disability,Employee + Spouse,97.48,140.19
+2315,Life,Family,318.96,87.36
+4917,Medical,Family,225.79,206.02
+4917,Vision,Employee + Spouse,70.24,292.9
+4917,Life,Employee + Spouse,61.81,167.3
+2540,Life,Employee Only,268.44,296.73
+2540,Medical,Employee Only,290.45,129.33
+2540,Vision,Family,250.96,197.99
+4157,Vision,Employee Only,491.09,91.02
+4157,Dental,Employee + Spouse,37.63,240.79
+4157,Disability,Employee Only,192.06,225.22
+4081,Medical,Family,325.28,236.02
+4081,Life,Employee + Spouse,375.54,113.11
+4081,Disability,Employee Only,50.84,172.88
+8227,Medical,Employee + Spouse,412.35,69.02
+8227,Vision,Employee + Spouse,396.2,150.09
+8227,Disability,Employee + Spouse,356.83,196.89
+2372,Life,Family,411.4,37.67
+2372,Dental,Employee + Spouse,394.81,148.15
+2372,Medical,Family,167.92,32.27
+1043,Dental,Employee Only,123.75,31.73
+1043,Disability,Family,468.68,164.31
+1043,Medical,Employee + Spouse,494.89,172.05
+3267,Disability,Family,149.06,230.92
+3267,Dental,Employee Only,119.82,119.95
+3267,Life,Employee Only,397.0,262.42
+8738,Life,Employee + Spouse,186.0,54.85
+8738,Vision,Family,202.97,269.06
+8738,Dental,Employee Only,379.35,270.5
+2981,Life,Family,211.72,292.64
+2981,Vision,Employee Only,263.22,159.31
+2981,Disability,Employee Only,464.43,165.4
+1812,Life,Employee + Spouse,406.54,223.58
+1812,Vision,Family,67.1,188.69
+1812,Disability,Employee + Spouse,416.5,172.73
+1915,Vision,Employee Only,180.97,42.42
+1915,Life,Employee + Spouse,340.63,105.82
+1915,Dental,Employee + Spouse,313.23,139.31
+6220,Medical,Family,354.19,118.43
+6220,Dental,Employee + Spouse,49.91,263.61
+6220,Life,Family,195.7,299.48
+9730,Vision,Family,159.04,294.41
+9730,Disability,Employee + Spouse,475.52,41.01
+9730,Medical,Employee + Spouse,329.63,121.73
+3596,Medical,Family,406.52,210.23
+3596,Disability,Employee + Spouse,477.81,59.98
+3596,Vision,Employee + Spouse,315.56,238.77
+3040,Dental,Family,46.36,38.83
+3040,Vision,Employee Only,395.9,122.57
+3040,Medical,Family,209.94,178.83
+9563,Vision,Employee Only,314.39,210.14
+9563,Dental,Family,475.95,124.16
+9563,Disability,Family,388.65,180.7
+6035,Medical,Employee Only,278.85,131.45
+6035,Vision,Family,335.29,89.89
+6035,Dental,Employee + Spouse,83.32,225.99
+2194,Dental,Employee + Spouse,264.55,128.36
+2194,Medical,Family,293.99,93.3
+2194,Disability,Employee + Spouse,152.34,144.96
+7987,Dental,Family,498.29,99.96
+7987,Disability,Employee + Spouse,460.75,157.54
+7987,Medical,Family,87.64,258.79
+9558,Disability,Employee + Spouse,242.46,271.63
+9558,Vision,Employee + Spouse,239.2,44.58
+9558,Medical,Employee + Spouse,350.51,256.75
+3066,Vision,Employee Only,180.21,117.28
+3066,Medical,Employee Only,60.52,171.81
+3066,Dental,Employee Only,448.93,258.38
+4511,Life,Employee + Spouse,364.55,279.65
+4511,Vision,Employee Only,329.72,242.23
+4511,Medical,Employee + Spouse,269.12,53.98
+6835,Disability,Employee + Spouse,124.46,58.89
+6835,Medical,Family,401.48,27.36
+6835,Dental,Family,290.39,123.3
+9639,Vision,Employee + Spouse,407.72,174.46
+9639,Life,Employee Only,317.62,44.14
+9639,Disability,Family,175.37,299.89
