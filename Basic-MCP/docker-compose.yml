@@ -1,0 +1,40 @@
+version: '3.8'
+services:
+  fastapi_app:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: fastapi_app
+    ports:
+      - "8000:8000"
+    working_dir: /app
+    volumes:
+      - ./fastapi_app:/app
+
+  mcp_server:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: mcp_server
+    environment:
+      - LOCAL_MODEL_URL=http://fastapi_app:8000/predict
+    working_dir: /app
+    volumes:
+      - ./mcp_server:/app
+    command: uvicorn orchestrator:app --host 0.0.0.0 --port 9000
+    ports:
+      - "9000:9000"
+
+  flask_frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: flask_frontend
+    working_dir: /app
+    volumes:
+      - ./flask_frontend:/app
+    command: python app.py
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mcp_server

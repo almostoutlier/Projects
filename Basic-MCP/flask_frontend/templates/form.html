@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ML Local Model Inference</title>
+</head>
+<body>
+  <h2>Predict Iris Flower Type</h2>
+  <form method="POST">
+    <label>Sepal Length (cm):</label><br>
+    <input type="text" name="sepal_length" required><br>
+
+    <label>Sepal Width (cm):</label><br>
+    <input type="text" name="sepal_width" required><br>
+
+    <label>Petal Length (cm):</label><br>
+    <input type="text" name="petal_length" required><br>
+
+    <label>Petal Width (cm):</label><br>
+    <input type="text" name="petal_width" required><br><br>
+
+    <button type="submit">Predict</button>
+  </form>
+
+  {% if prediction %}
+    <h3>Prediction Result:</h3>
+    <pre>{{ prediction }}</pre>
+  {% endif %}
+</body>
+</html>
